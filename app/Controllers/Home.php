@@ -10,6 +10,8 @@ class Home extends BaseController
             'title' => 'Bagasta Arsindo',
             'bagas' => 'adm_home'
         ];
+        
         return view('temp_users/u_wrapp', $data);
+        
     }
 }

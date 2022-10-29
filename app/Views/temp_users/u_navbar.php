@@ -80,7 +80,7 @@
                                 <a href="<?= base_url('/contact') ?>" class="nav-item nav-link">Contact</a>
                             </div>
                             <div class="ml-auto">
-                                <a class="btn" href="#">Get A Quote</a>
+                                <a class="btn" href="">Get A Quote</a>
                             </div>
                         </div>
                     </nav>
